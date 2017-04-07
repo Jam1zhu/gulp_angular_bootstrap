@@ -1,0 +1,17 @@
+/*.slide.ng-enter { }        /* starting animations for enter */
+/*.slide.ng-enter-active { } /* terminal animations for enter */
+/*.slide.ng-leave { }        /* starting animations for leave */
+/*.slide.ng-leave-active { } /* terminal animations for leave */
+
+#registerFrom .showWarn.ng-enter{
+    background: #ffff00;
+}
+#registerFrom .showWarn.ng-enter-active{
+    background: #f0ad4e;
+}
+#registerFrom .showWarn.ng-leave{
+    background: #ffff00;
+}
+#registerFrom .showWarn.ng-leave-active{
+    background: #f0ad4e;
+}
